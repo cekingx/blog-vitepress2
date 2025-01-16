@@ -1,5 +1,5 @@
 ---
-title: The Vue Point
-subtext: Updates, tips & opinions from the maintainers of Vue.js.
+title: Cekingx Blog
+subtext: Sharing technical stuff and hobbies
 index: true
 ---
