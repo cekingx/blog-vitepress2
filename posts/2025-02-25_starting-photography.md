@@ -16,6 +16,8 @@ Tahun lalu aku sering ikut event lari trus liat banyak banget orang yang motoin 
 
 Karena dulu pernah belajar fotografi (sedikit), tertarik dengan fotoyu dan hype olahraga lari masih ada jadi aku memutuskan untuk membeli kamera pertamaku tahun ini. Karena budget juga terbatas jadinya aku memutuskan untuk membeli kamera canon 600D dengan lensa kit 18-55mm. Kamera ini memang kamera dslr lawas, tapi menurutku udah lebih dari cukup untuk aku latihan dan berkarya. Uhuyy
 
+Namun setelah aku punya kamera aku sadar kalo lensa kit itu tidak cocok untuk motoin orang lari karena focal length nya kurang tele alias kurang nge-zoom :). Jadi untuk sekarang aku mau belajar dulu biar setiap foto yang aku ambil itu punya exposure yang baik. Nggak under dan nggak over
+
 Aku udah sempet motret, ini hasilnya
 
 ![Kaca Mata di Pasir Putih](./2025-02-25_starting-photography/1-kacamata.jpg)
@@ -25,8 +27,6 @@ Aku udah sempet motret, ini hasilnya
 ![Motor Beat](./2025-02-25_starting-photography/3-motor.jpg)
 
 Untuk hasil yang lebih lengkap ada di instagram [@moment.cekingx](https://www.instagram.com/moment.cekingx/)
-
-Namun setelah aku punya kamera aku sadar kalo lensa kit itu tidak cocok untuk motoin orang lari karena focal length nya kurang tele alias kurang nge-zoom :). Jadi untuk sekarang aku mau belajar dulu biar setiap foto yang aku ambil itu punya exposure yang baik. Nggak under dan nggak over
 
 See you next time,
 
