@@ -71,7 +71,8 @@ return ecrecover(digest, v, r, s)
 ```
 
 ## Signed Typed Data
-EIP-191 memiliki kelemahan yaitu karena strukturnya yang sederhana, data yang telah di-sign oleh user dapat digunakan dimana saja sehingga tidak cocok untuk signature yang digunakan untuk sebuah smart contract saja.
+EIP-191 memiliki struktur yang sederhana, hanya terdiri dari sebuah string tanpa ada tambahan source of randomness seperti contract address maupun chainId.
+Hal ini menyebabkan sebuah Signed Message bisa digunakan dimana saja sehingga hal ini tidak cocok untuk memberikan persetujuan hanya pada sebuah smart contract pada sebuah chainId.
 EIP-712 memberikan struktur untuk memastikan bahwa sebuah message hanya bisa digunakan pada sebuah smart contract pada suatu chainId.
 Strukturnya adalah
 
@@ -243,7 +244,7 @@ function recoverMail(uint8 v, bytes32 r, bytes32 s) public view returns(address)
 ```
 
 Jadi setiap jenis message signature memiliki kelebihannya masing-masing.
-EIP-191 memiliki struktur yang simple sehingga mudah untuk di-maintain dan bisa dikembangkan sesuai kebutuhan.
+EIP-191 memiliki struktur yang simple sehingga mudah untuk dimengerti dan dimodifikasi sesuai dengan kebutuhan.
 EIP-712 menawarkan jaminan bahwa sebuah signature hanya bisa digunakan pada satu tempat.
 
 Semoga bermanfaat :)
