@@ -125,9 +125,9 @@ const signed = await user.signTypedData(
     },
     contents: 'Hello, Bob!'
   }
-
-  const { v, r, s } = ethers.Signature.from(signed)
 )
+
+const { v, r, s } = ethers.Signature.from(signed)
 ```
 
 ### Verify Signature
